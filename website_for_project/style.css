@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(156, 191, 241);
+    font-family: Segoe UI;
+    color:rgb(68, 19, 6)
+}
+
+h2 {
+    font-weight: bold;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+h3 {
+    font-size: larger;
+    font-weight:700;
+}
+
+li {
+    font-size:larger;
+    font-weight:700;
+}
